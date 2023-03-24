@@ -1,0 +1,5 @@
+BMI Calculator created with Android Studio
+
+Calculates BMI based on given weight and height. Height is set in app settings.
+On the main view is input for weight. Calculated BMI shows on main screen and
+history is stored and can be viewed as bar chart.
